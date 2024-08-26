@@ -2655,3 +2655,8 @@ twitterinc.com
 104.244.42.195 - verified.x.com
 104.244.42.3 - verified.x.com
 148.163.135.238 - proofpoint.x.com
+Platform.twitter.com
+betastream.twitter.com
+sms-be-vip.twitter.com
+urls-real.api.twitter.com
+xstream.twitter.com
