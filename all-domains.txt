@@ -1,7 +1,7 @@
 x.com
 twitter.com
 twtrdns.net
-twttr.com
+.twttr.com
 t.co
 twimg.com
 pro.x.com
@@ -2095,633 +2095,225 @@ twitter.zone
 twitter.zuerich
 twitter.zw
 twitterinc.com
-104.244.42.129 - x.com
-104.244.42.1 - www.x.com
-104.244.42.193 - www.x.com
-104.244.42.193 - x.com
-104.244.42.1 - x.com
-104.244.42.129 - www.x.com
-104.244.42.65 - www.x.com
-104.244.42.65 - x.com
-104.244.42.195 - mail.x.com
-104.244.42.195 - m.x.com
-104.18.35.10 - blog.x.com
-172.64.152.246 - blog.x.com
-104.244.42.195 - dev.x.com
-104.244.42.70 - mobile.x.com
-104.244.42.67 - support.x.com
-104.244.42.131 - support.x.com
-104.244.42.195 - support.x.com
-104.244.42.3 - support.x.com
-104.244.42.195 - media.x.com
-104.244.42.195 - video.x.com
-104.244.42.194 - api.x.com
-104.244.42.2 - api.x.com
-104.244.42.66 - api.x.com
-104.244.42.130 - api.x.com
-104.244.42.195 - chat.x.com
-104.244.42.195 - search.x.com
-104.244.42.195 - ads.x.com
-104.244.42.195 - apps.x.com
-104.18.39.24 - help.x.com
-172.64.148.232 - help.x.com
-104.244.42.75 - upload.x.com
-104.244.42.195 - jobs.x.com
-104.244.42.195 - partners.x.com
-104.244.42.195 - marketing.x.com
-209.17.49.106 - e.x.com
-199.59.148.207 - mx3.x.com
-104.244.42.195 - event.x.com
-104.244.42.195 - business.x.com
-104.244.42.195 - research.x.com
-104.244.42.195 - careers.x.com
-104.244.42.67 - careers.x.com
-104.244.42.3 - careers.x.com
-104.244.42.131 - careers.x.com
-104.244.42.195 - eng.x.com
-209.17.49.106 - mail01.x.com
-104.244.42.68 - pro.x.com
-104.244.42.4 - pro.x.com
-104.244.42.196 - pro.x.com
-104.244.42.132 - pro.x.com
-104.244.42.195 - analytics.x.com
-104.244.42.195 - developer.x.com
-104.244.42.195 - pic.x.com
-199.16.156.115 - mx4.x.com
-104.244.42.195 - biz.x.com
-209.17.49.106 - mail02.x.com
-104.244.42.195 - payments.x.com
-104.244.42.195 - studio.x.com
-104.244.42.195 - about.x.com
-104.244.42.195 - cards.x.com
-104.244.42.195 - elections.x.com
-104.244.42.195 - advertising.x.com
-104.244.42.195 - publish.x.com
-104.244.42.195 - developers.x.com
-104.244.42.195 - aa.x.com
-104.244.42.195 - engineering.x.com
-104.244.42.195 - lite.x.com
-104.244.42.195 - investor.x.com
-104.244.42.195 - brand.x.com
-104.244.42.195 - discover.x.com
-104.244.42.67 - legal.x.com
-199.59.148.207 - postmaster.x.com
-199.16.156.115 - postmaster.x.com
-104.244.42.4 - td.x.com
-104.244.42.196 - td.x.com
-104.244.42.132 - td.x.com
-104.244.42.68 - td.x.com
-104.244.42.195 - publisher.x.com
-104.244.42.195 - election.x.com
-104.244.42.67 - ias.x.com
-104.244.42.195 - platform.x.com
-104.244.42.195 - interactive.x.com
-104.244.42.195 - opensource.x.com
-104.244.42.195 - wr.x.com
-52.32.136.170 - jf.x.com
-54.201.184.187 - jf.x.com
-52.10.38.60 - jf.x.com
-54.69.191.249 - jf.x.com
-104.244.42.195 - policy.x.com
-104.244.42.195 - fonts.x.com
-104.244.42.195 - privacy.x.com
-104.244.42.3 - probe.x.com
-104.244.42.195 - probe.x.com
-104.244.42.131 - probe.x.com
-104.244.42.67 - probe.x.com
-104.244.42.195 - create.x.com
-104.244.42.136 - syndication.x.com
-104.244.42.8 - syndication.x.com
-104.244.42.72 - syndication.x.com
-104.244.42.200 - syndication.x.com
-104.244.42.195 - blog-dev.x.com
-104.244.42.129 - twitter.com
-104.244.42.129 - www.twitter.com
-104.244.42.67 - mail.twitter.com
-104.244.42.67 - m.twitter.com
-104.244.42.67 - blog.twitter.com
-104.244.42.67 - dev.twitter.com
-199.59.149.198 - www2.twitter.com
-104.244.42.67 - support.twitter.com
-104.244.42.195 - support.twitter.com
-104.244.42.3 - support.twitter.com
-104.244.42.131 - support.twitter.com
-104.244.42.134 - mobile.twitter.com
-199.59.148.217 - mx.twitter.com
-104.244.42.67 - static.twitter.com
-104.244.42.67 - calendar.twitter.com
-104.244.42.67 - media.twitter.com
-104.244.42.67 - video.twitter.com
-104.244.42.66 - api.twitter.com
-104.244.42.67 - search.twitter.com
-199.59.148.144 - mx1.twitter.com
-104.244.42.67 - ads.twitter.com
-104.244.42.67 - sites.twitter.com
-199.59.148.205 - mx2.twitter.com
-104.244.42.67 - apps.twitter.com
-199.16.156.18 - download.twitter.com
-104.244.42.67 - live.twitter.com
-104.244.42.67 - start.twitter.com
-104.244.42.67 - sms.twitter.com
-172.64.151.237 - help.twitter.com
-104.18.36.19 - help.twitter.com
-199.59.149.230 - www4.twitter.com
-104.244.42.75 - upload.twitter.com
-104.244.42.67 - data.twitter.com
-104.244.42.67 - jobs.twitter.com
-104.244.42.67 - s.twitter.com
-104.244.42.67 - facebook.twitter.com
-104.244.42.195 - stream.twitter.com
-104.244.42.3 - stream.twitter.com
-104.244.42.67 - stream.twitter.com
-104.244.42.131 - stream.twitter.com
-199.59.148.207 - events.twitter.com
-199.16.156.115 - events.twitter.com
-104.244.42.67 - partners.twitter.com
-68.232.35.154 - status.twitter.com
-104.244.42.67 - marketing.twitter.com
-104.244.42.67 - content.twitter.com
-199.16.157.80 - pay.twitter.com
-199.59.148.207 - mx3.twitter.com
-104.244.42.67 - design.twitter.com
-199.59.148.91 - ms.twitter.com
-104.244.42.67 - event.twitter.com
-104.244.42.67 - business.twitter.com
-104.244.42.67 - groups.twitter.com
-104.244.42.67 - research.twitter.com
-104.244.42.67 - careers.twitter.com
-104.244.42.67 - eng.twitter.com
-104.244.42.4 - pro.twitter.com
-104.244.42.67 - analytics.twitter.com
-104.244.42.67 - shopping.twitter.com
-104.244.42.67 - developer.twitter.com
-104.244.42.67 - dashboard.twitter.com
-199.16.156.41 - sa.twitter.com
-104.244.42.67 - pic.twitter.com
-104.244.42.67 - people.twitter.com
-199.16.156.115 - mx4.twitter.com
-199.59.148.84 - ss.twitter.com
-104.244.42.67 - biz.twitter.com
-104.244.42.67 - ac.twitter.com
-104.244.42.67 - payments.twitter.com
-104.244.42.67 - 2012.twitter.com
-104.244.42.67 - 2013.twitter.com
-104.244.42.67 - neptune.twitter.com
-104.244.42.67 - studio.twitter.com
-104.244.42.67 - 2011.twitter.com
-104.244.42.67 - translate.twitter.com
-104.244.42.67 - about.twitter.com
-104.244.42.67 - ms1.twitter.com
-104.244.42.67 - apple.twitter.com
-104.244.42.67 - cards.twitter.com
-104.244.42.67 - fox.twitter.com
-104.244.42.67 - discovery.twitter.com
-104.244.42.67 - 2010.twitter.com
-104.244.42.67 - advertising.twitter.com
-104.244.42.67 - elections.twitter.com
-199.59.149.200 - api2.twitter.com
-104.244.42.67 - donate.twitter.com
-104.244.42.67 - ms2.twitter.com
-104.244.42.67 - safety.twitter.com
-104.244.42.67 - awards.twitter.com
-104.244.42.67 - horizon.twitter.com
-104.244.42.195 - publish.twitter.com
-104.244.42.3 - publish.twitter.com
-104.244.42.67 - publish.twitter.com
-104.244.42.131 - publish.twitter.com
-104.244.42.67 - developers.twitter.com
-104.244.42.67 - aa.twitter.com
-104.244.42.67 - engineering.twitter.com
-104.244.42.67 - creative.twitter.com
-104.244.42.67 - lite.twitter.com
-104.244.42.67 - investor.twitter.com
-104.244.42.67 - train.twitter.com
-104.244.42.67 - fly.twitter.com
-104.244.42.67 - brand.twitter.com
-104.244.42.67 - soccer.twitter.com
-199.16.156.11 - search2.twitter.com
-104.244.42.67 - discover.twitter.com
-104.244.42.67 - gov.twitter.com
-104.244.42.67 - legal.twitter.com
-199.59.148.144 - postmaster.twitter.com
-104.244.42.196 - td.twitter.com
-104.244.42.67 - pulse.twitter.com
-104.244.42.67 - mls.twitter.com
-104.244.42.67 - ces.twitter.com
-104.244.42.67 - publisher.twitter.com
-104.244.42.67 - 0.twitter.com
-104.244.42.67 - election.twitter.com
-104.244.42.67 - bravo.twitter.com
-104.244.42.67 - ias.twitter.com
-104.244.42.67 - stories.twitter.com
-104.244.42.67 - zero.twitter.com
-104.244.42.67 - e3.twitter.com
-93.184.220.66 - platform.twitter.com
-104.244.42.67 - assets2.twitter.com
-104.244.42.67 - university.twitter.com
-104.244.42.67 - tnt.twitter.com
-104.244.42.67 - anywhere.twitter.com
-104.244.42.67 - branch.twitter.com
-104.244.42.67 - interactive.twitter.com
-199.59.148.76 - api-test.twitter.com
-199.59.148.36 - intl.twitter.com
-104.244.42.67 - assets1.twitter.com
-104.244.42.67 - nike.twitter.com
-104.244.42.67 - opensource.twitter.com
-104.244.42.67 - operator.twitter.com
-104.244.42.67 - bet.twitter.com
-104.244.42.67 - lol.twitter.com
-104.244.42.67 - empire.twitter.com
-52.25.133.226 - jf.twitter.com
-52.41.93.211 - jf.twitter.com
-44.230.11.96 - jf.twitter.com
-52.32.116.209 - jf.twitter.com
-104.244.42.67 - assets3.twitter.com
-104.244.42.67 - policy.twitter.com
-104.244.42.67 - iem.twitter.com
-104.244.42.67 - pbs.twitter.com
-104.244.42.67 - fonts.twitter.com
-104.244.42.67 - esl.twitter.com
-104.244.42.67 - mtv.twitter.com
-104.244.42.67 - futbol.twitter.com
-104.244.42.67 - diversity.twitter.com
-104.244.42.67 - nfl.twitter.com
-104.244.42.67 - ms3.twitter.com
-104.244.42.67 - 2014.twitter.com
-104.244.42.67 - privacy.twitter.com
-104.244.42.67 - records.twitter.com
-104.244.42.67 - nhl.twitter.com
-104.244.42.67 - tales.twitter.com
-104.244.42.67 - arsenal.twitter.com
-104.244.42.67 - blog-dev.twitter.com
-199.232.24.159 - test.twimg.com
-152.199.21.141 - g.twimg.com
-104.244.46.7 - pr.twimg.com
-104.244.42.201 - r.twimg.com
-104.244.42.67 - l.twimg.com
-152.199.21.140 - ma.twimg.com
-152.199.21.140 - ea.twimg.com
-152.199.21.141 - abs.twimg.com
-18.66.168.174 - mobile2.twimg.com
-18.66.168.202 - mobile2.twimg.com
-18.66.168.151 - mobile2.twimg.com
-18.66.168.164 - mobile2.twimg.com
-152.199.21.141 - g2.twimg.com
-104.244.43.131 - zero.twimg.com
-18.66.168.174 - mobile1.twimg.com
-18.66.168.164 - mobile1.twimg.com
-18.66.168.151 - mobile1.twimg.com
-18.66.168.202 - mobile1.twimg.com
-199.232.24.159 - oem.twimg.com
-199.232.24.159 - pbs.twimg.com
-199.232.24.159 - ttc.twimg.com
-93.184.220.70 - gu.twimg.com
-199.232.24.159 - amp.twimg.com
-104.244.42.136 - syndication.twimg.com
-199.232.24.159 - ma1.twimg.com
-104.244.42.132 - tweetdeck.com
-104.244.42.196 - tweetdeck.com
-104.244.42.4 - tweetdeck.com
-104.244.42.68 - tweetdeck.com
-104.244.42.68 - www.tweetdeck.com
-104.244.42.68 - blog.tweetdeck.com
-104.244.42.68 - support.tweetdeck.com
-104.244.42.68 - web.tweetdeck.com
-104.244.42.68 - api.tweetdeck.com
-104.244.42.68 - downloads.tweetdeck.com
-104.244.42.195 - assets.tweetdeck.com
-104.244.42.68 - tracking.tweetdeck.com
-93.184.221.165 - t.co
-93.184.221.165 - www.t.co
-104.244.42.197 - origin.t.co
-104.244.42.69 - origin.t.co
-104.244.42.5 - origin.t.co
-104.244.42.133 - origin.t.co
-104.244.42.3 - m.x.com
-104.244.42.3 - jobs.x.com
-104.244.42.198 - mobile.x.com
-104.244.42.3 - mail.x.com
-104.244.42.3 - search.x.com
-104.244.42.3 - apps.x.com
-104.244.42.3 - video.x.com
-104.244.42.3 - developer.x.com
-104.244.42.3 - business.x.com
-104.244.42.3 - media.x.com
-104.244.42.3 - research.x.com
-104.244.42.3 - investor.x.com
-104.244.42.3 - chat.x.com
-104.244.42.3 - dev.x.com
-104.244.42.3 - about.x.com
-104.244.42.3 - developers.x.com
-104.244.42.3 - partners.x.com
-104.244.42.3 - event.x.com
-104.244.42.3 - biz.x.com
-104.244.42.3 - eng.x.com
-104.244.42.3 - engineering.x.com
-104.244.42.3 - payments.x.com
-104.244.42.3 - marketing.x.com
-104.244.42.3 - platform.x.com
-104.244.42.3 - discover.x.com
-104.244.42.3 - brand.x.com
-104.244.42.3 - studio.x.com
-104.244.42.3 - insights.x.com
-104.244.42.3 - ads.x.com
-104.244.42.3 - analytics.x.com
-104.244.42.3 - policy.x.com
-104.244.42.11 - upload.x.com
-104.244.42.203 - upload.x.com
-104.244.42.139 - upload.x.com
-104.244.42.3 - privacy.x.com
-104.244.42.3 - elections.x.com
-104.244.42.3 - lite.x.com
-104.244.42.3 - cards.x.com
-104.244.42.3 - pic.x.com
-104.244.42.3 - legal.x.com
-104.244.42.131 - legal.x.com
-104.244.42.195 - legal.x.com
-104.244.42.3 - interactive.x.com
-104.244.42.3 - publisher.x.com
-104.244.42.3 - create.x.com
-104.244.42.3 - opensource.x.com
-104.244.42.3 - gdpr.x.com
-104.244.42.3 - advertising.x.com
-104.244.42.3 - aa.x.com
-104.244.42.3 - publish.x.com
-104.244.42.3 - election.x.com
-104.244.42.3 - ias.x.com
-104.244.42.131 - ias.x.com
-104.244.42.195 - ias.x.com
-104.244.42.3 - caps.x.com
-104.244.42.3 - fonts.x.com
-104.244.42.3 - transparency.x.com
-104.244.42.3 - wr.x.com
-104.244.42.3 - preferencecenter.x.com
-0.0.0.0 - abs-0.twimg.com
-0.0.0.0 - abs.twimg.com
-0.0.0.0 - api.twitter.com
-0.0.0.0 - blog.twitter.co
-0.0.0.0 - cdn.cms-twdigitalassets.com
-0.0.0.0 - developers.twitter.com
-0.0.0.0 - fonts.twitter.com
-0.0.0.0 - help.twitter.com
-0.0.0.0 - mobile.twitter.co
-0.0.0.0 - mobile.twitter.co.uk
-0.0.0.0 - mobile.twitter.com
-0.0.0.0 - mobile.twitter.com.au
-0.0.0.0 - pbs.twimg.com
-0.0.0.0 - platform.twitter.com
-0.0.0.0 - syndication.twitter.com
-0.0.0.0 - t.co
-0.0.0.0 - twitter.co
-0.0.0.0 - twitter.co.uk
-0.0.0.0 - twitter.com
-0.0.0.0 - twitter.com.au
-0.0.0.0 - video.twimg.com
-0.0.0.0 - www.twitter.co
-0.0.0.0 - www.twitter.co.uk
-0.0.0.0 - www.twitter.com
-0.0.0.0 - www.twitter.com.au
-0.0.0.0 - x.com
-199.232.24.158 - video.twimg.com
-104.244.42.73 - s.twimg.com
-104.244.42.201 - s.twimg.com
-104.244.42.9 - s.twimg.com
-104.244.42.137 - s.twimg.com
-199.232.24.159 - p.twimg.com
-104.244.42.137 - r.twimg.com
-104.244.42.131 - l.twimg.com
-104.244.42.137 - star.twimg.com
-104.244.42.9 - star.twimg.com
-104.244.42.73 - star.twimg.com
-104.244.42.201 - star.twimg.com
-104.244.42.131 - cf.twimg.com
-104.244.43.35 - zero.twimg.com
-152.199.21.141 - hca.twimg.com
-104.244.42.131 - m.twitter.com
-104.244.42.131 - blog.twitter.com
-104.244.42.131 - jobs.twitter.com
-104.244.42.131 - careers.twitter.com
-104.244.42.70 - mobile.twitter.com
-104.244.42.131 - mail.twitter.com
-104.244.42.131 - search.twitter.com
-104.244.42.131 - apps.twitter.com
-104.244.42.131 - live.twitter.com
-104.244.42.131 - video.twitter.com
-104.244.42.131 - business.twitter.com
-104.244.42.131 - developer.twitter.com
-104.244.42.131 - media.twitter.com
-104.244.42.131 - data.twitter.com
-104.244.42.131 - dashboard.twitter.com
-104.244.42.196 - pro.twitter.com
-104.244.42.131 - research.twitter.com
-104.244.42.130 - api.twitter.com
-104.244.42.131 - s.twitter.com
-199.16.156.79 - download.twitter.com
-104.244.42.131 - investor.twitter.com
-104.244.42.131 - dev.twitter.com
-104.244.42.131 - about.twitter.com
-104.244.42.131 - calendar.twitter.com
-104.244.42.131 - developers.twitter.com
-104.244.42.131 - partners.twitter.com
-199.59.149.108 - mx.twitter.com
-104.244.42.131 - event.twitter.com
-104.244.42.131 - translate.twitter.com
-104.244.42.131 - sites.twitter.com
-104.244.42.131 - content.twitter.com
-104.244.42.131 - biz.twitter.com
-104.244.42.131 - people.twitter.com
-104.244.42.131 - start.twitter.com
-104.244.42.131 - eng.twitter.com
-199.16.156.73 - sa.twitter.com
-104.244.42.131 - engineering.twitter.com
-104.244.42.131 - marketing.twitter.com
-104.244.42.131 - payments.twitter.com
-104.244.42.131 - donate.twitter.com
-104.244.42.131 - shopping.twitter.com
-104.244.42.131 - design.twitter.com
-104.244.42.131 - static.twitter.com
-104.244.42.131 - discover.twitter.com
-104.244.42.131 - brand.twitter.com
-104.244.42.131 - sms.twitter.com
-104.244.42.131 - university.twitter.com
-104.244.42.131 - stories.twitter.com
-104.244.42.131 - studio.twitter.com
-104.244.42.131 - insights.twitter.com
-104.244.42.131 - ads.twitter.com
-104.244.42.131 - analytics.twitter.com
-104.244.42.131 - ac.twitter.com
-104.244.42.131 - policy.twitter.com
-104.244.42.131 - groups.twitter.com
-104.244.42.203 - upload.twitter.com
-104.244.42.131 - lol.twitter.com
-104.244.42.131 - privacy.twitter.com
-104.244.42.131 - esports.twitter.com
-104.244.42.131 - elections.twitter.com
-104.244.42.131 - safety.twitter.com
-104.244.42.131 - lite.twitter.com
-104.244.42.131 - cards.twitter.com
-104.244.42.131 - pic.twitter.com
-104.244.42.131 - awards.twitter.com
-104.244.42.131 - legal.twitter.com
-104.244.42.131 - pulse.twitter.com
-104.244.42.131 - interactive.twitter.com
-104.244.42.131 - publisher.twitter.com
-104.244.42.131 - gov.twitter.com
-104.244.42.131 - create.twitter.com
-104.244.42.131 - apple.twitter.com
-104.244.42.131 - opensource.twitter.com
-104.244.42.131 - gdpr.twitter.com
-104.244.42.131 - fly.twitter.com
-104.244.42.131 - advertising.twitter.com
-104.244.42.131 - creative.twitter.com
-104.244.42.131 - aa.twitter.com
-104.244.42.131 - discovery.twitter.com
-104.244.42.131 - facebook.twitter.com
-104.244.42.131 - soccer.twitter.com
-104.244.42.131 - diversity.twitter.com
-104.244.42.131 - train.twitter.com
-104.244.42.131 - horizon.twitter.com
-104.244.42.131 - election.twitter.com
-104.244.42.131 - ces.twitter.com
-104.244.42.4 - td.twitter.com
-104.244.42.131 - dota2.twitter.com
-104.244.42.131 - overwatch.twitter.com
-104.244.42.131 - branch.twitter.com
-104.244.42.131 - ias.twitter.com
-104.244.42.131 - caps.twitter.com
-104.244.42.131 - rules.twitter.com
-104.244.42.131 - fonts.twitter.com
-104.244.42.131 - anywhere.twitter.com
-104.244.42.131 - records.twitter.com
-104.244.42.131 - 2014.twitter.com
-104.244.42.131 - bet.twitter.com
-104.244.42.131 - stadium.twitter.com
-104.244.42.131 - pbs.twitter.com
-104.244.42.131 - zero.twitter.com
-104.244.42.131 - futbol.twitter.com
-104.244.42.131 - nike.twitter.com
-104.244.42.131 - esl.twitter.com
-104.244.42.131 - 0.twitter.com
-104.244.42.131 - 2013.twitter.com
-104.244.42.131 - transparency.twitter.com
-104.244.42.131 - showtime.twitter.com
-104.244.42.131 - cfl.twitter.com
-104.244.42.131 - e3.twitter.com
-104.244.42.131 - rule.twitter.com
-104.244.42.131 - bravo.twitter.com
-104.244.42.131 - tnt.twitter.com
-104.244.42.131 - fox.twitter.com
-104.244.42.131 - 2015.twitter.com
-104.244.42.131 - empire.twitter.com
-104.244.42.131 - wwe.twitter.com
-104.244.42.131 - mlb.twitter.com
-104.244.42.131 - afl.twitter.com
-104.244.42.131 - faith.twitter.com
-104.244.42.131 - verification.twitter.com
-104.244.42.131 - 2012.twitter.com
-104.244.42.131 - ema.twitter.com
-104.244.42.131 - iem.twitter.com
-104.244.42.131 - www.search.twitter.com
-104.244.42.131 - iap.twitter.com
-104.244.42.131 - xbox.twitter.com
-104.244.42.131 - mls.twitter.com
-104.244.42.131 - rally.twitter.com
-104.244.42.131 - boxing.twitter.com
-104.244.42.131 - mux.twitter.com
-104.244.42.131 - debate.twitter.com
-104.244.42.131 - neptune.twitter.com
-104.244.42.131 - preferencecenter.twitter.com
-104.244.42.131 - debates.twitter.com
-104.244.42.131 - arsenal.twitter.com
-104.244.42.131 - 2011.twitter.com
-104.244.42.131 - amplify.twitter.com
-104.244.42.131 - forza.twitter.com
-104.244.42.195 - firefox.twitter.com
-104.244.42.195 - leagueoflegends.twitter.com
-104.244.42.195 - blog.de.twitter.com
-104.244.42.195 - natgeo.twitter.com
-104.244.42.195 - essence.twitter.com
-104.244.42.195 - operator.twitter.com
-104.244.42.195 - nfl.twitter.com
-104.244.42.195 - edl.twitter.com
-104.244.42.195 - converse.twitter.com
-104.244.42.195 - chirp.twitter.com
-104.244.42.3 - amplify.x.com
-184.105.99.75 - devcommunity.x.com
-104.244.42.67 - verified.x.com
-104.244.42.131 - verified.x.com
-104.244.42.195 - verified.x.com
-104.244.42.3 - verified.x.com
-148.163.135.238 - proofpoint.x.com
+media.x.com
+chat.x.com
+partners.x.com
+e.x.com
+event.x.com
+research.x.com
+careers.x.com
+mail01.x.com
+developer.x.com
+pic.x.com
+biz.x.com
+mail02.x.com
+payments.x.com
+studio.x.com
+elections.x.com
+advertising.x.com
+publish.x.com
+aa.x.com
+engineering.x.com
+lite.x.com
+investor.x.com
+discover.x.com
+legal.x.com
+postmaster.x.com
+publisher.x.com
+interactive.x.com
+opensource.x.com
+wr.x.com
+policy.x.com
+privacy.x.com
+create.x.com
+blog-dev.x.com
+media.twitter.com
+live.twitter.com
+start.twitter.com
+data.twitter.com
+facebook.twitter.com
+partners.twitter.com
+design.twitter.com
+ms.twitter.com
+event.twitter.com
+groups.twitter.com
+research.twitter.com
+careers.twitter.com
+shopping.twitter.com
+developer.twitter.com
+dashboard.twitter.com
+sa.twitter.com
+pic.twitter.com
+people.twitter.com
+ss.twitter.com
+biz.twitter.com
+ac.twitter.com
+payments.twitter.com
+2012.twitter.com
+2013.twitter.com
+neptune.twitter.com
+studio.twitter.com
+2011.twitter.com
+translate.twitter.com
+apple.twitter.com
+fox.twitter.com
+discovery.twitter.com
+2010.twitter.com
+advertising.twitter.com
+elections.twitter.com
+donate.twitter.com
+safety.twitter.com
+awards.twitter.com
+publish.twitter.com
+aa.twitter.com
+engineering.twitter.com
+creative.twitter.com
+lite.twitter.com
+investor.twitter.com
+train.twitter.com
+fly.twitter.com
+soccer.twitter.com
+discover.twitter.com
+gov.twitter.com
+legal.twitter.com
+postmaster.twitter.com
+mls.twitter.com
+ces.twitter.com
+publisher.twitter.com
+bravo.twitter.com
+ias.twitter.com
+stories.twitter.com
+zero.twitter.com
+e3.twitter.com
+assets2.twitter.com
+university.twitter.com
+tnt.twitter.com
+anywhere.twitter.com
+branch.twitter.com
+interactive.twitter.com
+intl.twitter.com
+assets1.twitter.com
+nike.twitter.com
+opensource.twitter.com
+operator.twitter.com
+bet.twitter.com
+lol.twitter.com
+empire.twitter.com
+assets3.twitter.com
+policy.twitter.com
+iem.twitter.com
+pbs.twitter.com
+esl.twitter.com
+mtv.twitter.com
+futbol.twitter.com
+diversity.twitter.com
+nfl.twitter.com
+2014.twitter.com
+privacy.twitter.com
+records.twitter.com
+nhl.twitter.com
+tales.twitter.com
+arsenal.twitter.com
+blog-dev.twitter.com
+test.twimg.com
+pr.twimg.com
+l.twimg.com
+mobile2.twimg.com
+zero.twimg.com
+mobile1.twimg.com
+oem.twimg.com
+ttc.twimg.com
+amp.twimg.com
+ma1.twimg.com
+www.tweetdeck.com
+blog.tweetdeck.com
+support.tweetdeck.com
+web.tweetdeck.com
+downloads.tweetdeck.com
+assets.tweetdeck.com
+tracking.tweetdeck.com
+origin.t.co
+insights.x.com
+gdpr.x.com
+caps.x.com
+transparency.x.com
+preferencecenter.x.com
+s.twimg.com
+star.twimg.com
+insights.twitter.com
+esports.twitter.com
+create.twitter.com
+gdpr.twitter.com
+dota2.twitter.com
+overwatch.twitter.com
+rules.twitter.com
+stadium.twitter.com
+transparency.twitter.com
+showtime.twitter.com
+cfl.twitter.com
+rule.twitter.com
+2015.twitter.com
+wwe.twitter.com
+mlb.twitter.com
+afl.twitter.com
+faith.twitter.com
+verification.twitter.com
+ema.twitter.com
+www.search.twitter.com
+iap.twitter.com
+xbox.twitter.com
+rally.twitter.com
+boxing.twitter.com
+debate.twitter.com
+preferencecenter.twitter.com
+debates.twitter.com
+amplify.twitter.com
+forza.twitter.com
+firefox.twitter.com
+leagueoflegends.twitter.com
+blog.de.twitter.com
+natgeo.twitter.com
+essence.twitter.com
+edl.twitter.com
+converse.twitter.com
+chirp.twitter.com
+amplify.x.com
+verified.x.com
 Platform.twitter.com
 betastream.twitter.com
 sms-be-vip.twitter.com
 urls-real.api.twitter.com
 xstream.twitter.com
-_dmarc.x.com
-aa.x.com
 ads-dev.x.com
 ads-staging.x.com
 apiwiki.x.com
 birdwatch.x.com
-biz.x.com
-blog-dev.x.com
 blog-staging.x.com
 brand-staging.x.com
-caps.x.com
 cards-beta.x.com
 cards-staging.x.com
-careers.x.com
-chat.x.com
 communitynotes.x.com
 communitynotes-dev.x.com
 communitynotes-staging.x.com
-create.x.com
 create-dev.x.com
 create-staging.x.com
-developer.x.com
 developers-mp.x.com
 developers-mp-dev.x.com
-e.x.com
 ethicshelpline.x.com
-event.x.com
 event-dev.x.com
 event-staging.x.com
-gdpr.x.com
 gdpr-dev.x.com
 gdpr-staging.x.com
-legal.x.com
 legalrequests.x.com
 livecampaign-staging.x.com
-mail01.x.com
-media.x.com
-opensource.x.com
-partners.x.com
-payments.x.com
-pic.x.com
-preferencecenter.x.com
-privacy.x.com
-publish.x.com
-studio.x.com
 tpop-api.x.com
-transparency.x.com
-verified.x.com
-wr.x.com
-2010.twitter.com
-2011.twitter.com
-2012.twitter.com
-2013.twitter.com
-2014.twitter.com
-2015.twitter.com
 21savage.twitter.com
 2chainz.twitter.com
 30secondstomars.twitter.com
 6nations.twitter.com
-aa.twitter.com
 about-dev.twitter.com
 about-staging.twitter.com
 aboveandbeyond.twitter.com
-ac.twitter.com
 acmaredcarpet.twitter.com
 acmawards.twitter.com
 ads-api-sandbox.twitter.com
@@ -2737,7 +2329,6 @@ ads-bidder-api-sandbox7.twitter.com
 ads-bidder-api-sandbox8.twitter.com
 ads-dev.twitter.com
 ads-staging.twitter.com
-advertising.twitter.com
 aem-author-application.twitter.com
 aem-author-dev.twitter.com
 aem-author-production.twitter.com
@@ -2745,12 +2336,9 @@ aem-author-staging.twitter.com
 aem-demo.twitter.com
 aem-demo-dev.twitter.com
 aem-demo-staging.twitter.com
-afl.twitter.com
 altmx.twitter.com
-amplify.twitter.com
 amtodm.twitter.com
 analyticsbeta.twitter.com
-anywhere.twitter.com
 api-0-4-0.twitter.com
 api-0-4-1.twitter.com
 api-0-4-2.twitter.com
@@ -2807,24 +2395,18 @@ api1-backup.twitter.com
 api3-backup.twitter.com
 apistatus.twitter.com
 apiwiki.twitter.com
-apple.twitter.com
 appleevent.twitter.com
-arsenal.twitter.com
 arthouse.twitter.com
 arthouse-dev.twitter.com
 arthouse-staging.twitter.com
 askobama.twitter.com
 assets0.twitter.com
-assets1.twitter.com
 assets1-backup.twitter.com
-assets2.twitter.com
-assets3.twitter.com
 assets3-backup.twitter.com
 assets4.twitter.com
 atl-api.twitter.com
 atla-partnerstream1.twitter.com
 atla-stream-data-api.twitter.com
-awards.twitter.com
 aws-dc-api-o.twitter.com
 aws-s-o.twitter.com
 badgleymischka.twitter.com
@@ -2840,7 +2422,6 @@ beatshazam.twitter.com
 bestoftweets.twitter.com
 bestoftweets-dev.twitter.com
 bestoftweets-staging.twitter.com
-bet.twitter.com
 bibhumohapatra.twitter.com
 billboard.twitter.com
 billboardgrammys.twitter.com
@@ -2848,10 +2429,7 @@ birdcast.twitter.com
 birdseye.twitter.com
 birdseye-beta.twitter.com
 birdwatch.twitter.com
-biz.twitter.com
-blog-dev.twitter.com
 blog-staging.twitter.com
-blog.de.twitter.com
 blog.kr.twitter.com
 blog.pt.twitter.com
 blog.ru.twitter.com
@@ -2862,12 +2440,9 @@ bloombergdaybreak.twitter.com
 bloombergmarkets.twitter.com
 bloombergpolitics.twitter.com
 bloombergtechnology.twitter.com
-boxing.twitter.com
-branch.twitter.com
 brand-dev.twitter.com
 brand-staging.twitter.com
 brandhub.twitter.com
-bravo.twitter.com
 bravotv.twitter.com
 breaking2.twitter.com
 breakingnews.twitter.com
@@ -2886,15 +2461,11 @@ cards-beta.twitter.com
 cards-dev-staging.twitter.com
 cards-frame.twitter.com
 cards-staging.twitter.com
-careers.twitter.com
 careers-dev.twitter.com
 careers-staging.twitter.com
 carpoolkaraoke.twitter.com
-ces.twitter.com
-cfl.twitter.com
 charlottesville.twitter.com
 cheddar.twitter.com
-chirp.twitter.com
 churchilldowns.twitter.com
 circuitbreaker.twitter.com
 claws.twitter.com
@@ -2907,20 +2478,15 @@ communitynotes-staging.twitter.com
 concacaf.twitter.com
 concon.twitter.com
 concon-staging.twitter.com
-converse.twitter.com
 cortex.twitter.com
 cortex-api.twitter.com
 cortex-dev.twitter.com
 cortex-staging.twitter.com
 covid19.twitter.com
 crashlytics.twitter.com
-create.twitter.com
 create-dev.twitter.com
 create-staging.twitter.com
-creative.twitter.com
-dashboard.twitter.com
 dasient.twitter.com
-data.twitter.com
 data-api.twitter.com
 data-dev.twitter.com
 data-staging.twitter.com
@@ -2928,27 +2494,18 @@ data-tools.twitter.com
 datastream.twitter.com
 dc-api.twitter.com
 deadlineday.twitter.com
-debate.twitter.com
-debates.twitter.com
 depechemode.twitter.com
 des-internal-api.twitter.com
 desertparty.twitter.com
-design.twitter.com
 design-dev.twitter.com
 design-staging.twitter.com
 dev-fonts.twitter.com
-developer.twitter.com
 developer-dev.twitter.com
 developer-staging.twitter.com
 developers-mp.twitter.com
 developers-mp-dev.twitter.com
 developers-mp-staging.twitter.com
 directresponse.twitter.com
-discover.twitter.com
-discovery.twitter.com
-diversity.twitter.com
-donate.twitter.com
-dota2.twitter.com
 dreamforce.twitter.com
 dreamhack.twitter.com
 dreamleague.twitter.com
@@ -2956,33 +2513,21 @@ drl.twitter.com
 dubainye.twitter.com
 dugout.twitter.com
 dxb-api.twitter.com
-e3.twitter.com
 earthlive.twitter.com
 echidna.twitter.com
 eclipse2017.twitter.com
-edl.twitter.com
 eleague.twitter.com
-elections.twitter.com
-ema.twitter.com
 email.visitor.twitter.com
-empire.twitter.com
-engineering.twitter.com
-esl.twitter.com
-esports.twitter.com
-essence.twitter.com
 essencefest.twitter.com
 essencefestival.twitter.com
 essencenow.twitter.com
 ethicshelpline.twitter.com
 euro2012.twitter.com
-event.twitter.com
 event-dev.twitter.com
 event-staging.twitter.com
 everyday.twitter.com
 exchangereporting.twitter.com
-facebook.twitter.com
 facebook3.twitter.com
-faith.twitter.com
 famitsu.twitter.com
 fashionweek.twitter.com
 fashionweekldn.twitter.com
@@ -2991,26 +2536,20 @@ fashionweekny.twitter.com
 fashionweekpar.twitter.com
 fb-staging.twitter.com
 fifthharmony.twitter.com
-firefox.twitter.com
 flightschool.twitter.com
 flightschool-dev.twitter.com
 flightschool-staging.twitter.com
-fly.twitter.com
-forza.twitter.com
 forzarc.twitter.com
-fox.twitter.com
 fra-api.twitter.com
 frenchelection.twitter.com
 frenchelections.twitter.com
 frenchopen.twitter.com
-futbol.twitter.com
 fyf.twitter.com
 fyffest.twitter.com
 gameawards.twitter.com
 gcf.twitter.com
 gcp-dc-api-o.twitter.com
 gcp-s-o.twitter.com
-gdpr.twitter.com
 gdpr-dev.twitter.com
 gdpr-staging.twitter.com
 geo0.api-stream.twitter.com
@@ -3044,10 +2583,8 @@ goglobalwithtwitter-dev.twitter.com
 goglobalwithtwitter-staging.twitter.com
 goldenglobes.twitter.com
 googlefffggghhh12345.twitter.com
-gov.twitter.com
 grammys.twitter.com
 graphql.twitter.com
-groups.twitter.com
 gtcp2.twitter.com
 gtcp3.twitter.com
 gton.twitter.com
@@ -3068,9 +2605,6 @@ horizon-dev.twitter.com
 horizon-staging.twitter.com
 hosebird.twitter.com
 houseofholland.twitter.com
-iap.twitter.com
-ias.twitter.com
-iem.twitter.com
 ifl.twitter.com
 ign.twitter.com
 ijf.twitter.com
@@ -3082,11 +2616,7 @@ inauguration2017.twitter.com
 innovators.twitter.com
 innovators-dev.twitter.com
 innovators-staging.twitter.com
-insights.twitter.com
 integratedsearch.twitter.com
-interactive.twitter.com
-intl.twitter.com
-investor.twitter.com
 ittr.twitter.com
 ittr-staging.twitter.com
 jleague.twitter.com
@@ -3102,9 +2632,7 @@ koreanelection.twitter.com
 koreanelections.twitter.com
 laliga.twitter.com
 lavercup.twitter.com
-leagueoflegends.twitter.com
 legacy-api.twitter.com
-legal.twitter.com
 legal-dev.twitter.com
 legal-staging.twitter.com
 legalrequests.twitter.com
@@ -3112,16 +2640,13 @@ legalrequests-dev.twitter.com
 legalrequests-staging.twitter.com
 letsdobusiness.twitter.com
 ligamx.twitter.com
-lite.twitter.com
 lite-dev.twitter.com
 lite-staging.twitter.com
-live.twitter.com
 livecampaign.twitter.com
 livecampaign-dev.twitter.com
 livecampaign-staging.twitter.com
 livenation.twitter.com
 lnb.twitter.com
-lol.twitter.com
 lon-api.twitter.com
 loveconnection.twitter.com
 mail-in.twitter.com
@@ -3140,16 +2665,13 @@ measure2.twitter.com
 measure3.twitter.com
 measure4.twitter.com
 measure5.twitter.com
-media.twitter.com
 media-dev.twitter.com
 media-staging.twitter.com
 melbournecup.twitter.com
 michaelkors.twitter.com
 mit-election.twitter.com
-mlb.twitter.com
 mlbbattlegrounds.twitter.com
 mll.twitter.com
-mls.twitter.com
 mmafighting.twitter.com
 mmahour.twitter.com
 mms-be-lab-lyn.twitter.com
@@ -3168,7 +2690,6 @@ mp-internal.twitter.com
 mp-internal-dev.twitter.com
 mp-internal-staging.twitter.com
 mrs-api.twitter.com
-ms.twitter.com
 msd1-api.twitter.com
 mta12.e.twitter.com
 mta16.e.twitter.com
@@ -3184,24 +2705,18 @@ mta67.e.twitter.com
 mta70.e.twitter.com
 mta9.e.twitter.com
 mttr.twitter.com
-mtv.twitter.com
 myprivacy.twitter.com
 nabc.twitter.com
 nascar.twitter.com
-natgeo.twitter.com
 nationalgeographic.twitter.com
 nbaindia.twitter.com
-neptune.twitter.com
 nestlematchplay.twitter.com
-nfl.twitter.com
 nflblitz.twitter.com
 nflcombine.twitter.com
 nflkickoff.twitter.com
-nhl.twitter.com
 niche-api.twitter.com
 niche-api-dev.twitter.com
 niche-api-staging.twitter.com
-nike.twitter.com
 nikebreaking2.twitter.com
 nll.twitter.com
 nonprofits.twitter.com
@@ -3209,36 +2724,25 @@ ns-twt.twitter.com
 nwhl.twitter.com
 o4.events.twitter.com
 obs-chart.twitter.com
-opensource.twitter.com
-operator.twitter.com
 oscars.twitter.com
 oscarsnom.twitter.com
-overwatch.twitter.com
 overwatchwc.twitter.com
-partners.twitter.com
 partners-api.twitter.com
 partners-api-sandbox.twitter.com
 partners-dev.twitter.com
 partners-staging.twitter.com
-payments.twitter.com
 pbr.twitter.com
-pbs.twitter.com
 pdx-api.twitter.com
-people.twitter.com
 pgachampionship.twitter.com
 pgatourlive.twitter.com
-pic.twitter.com
 platform-eb.twitter.com
 platform-next.twitter.com
 playerschamp.twitter.com
 playerschampionship.twitter.com
-policy.twitter.com
 polygon.twitter.com
 pop-api.twitter.com
 portugaltheman.twitter.com
-postmaster.twitter.com
 prabalgurung.twitter.com
-preferencecenter.twitter.com
 preferencecenter-dev.twitter.com
 preferencecenter-staging.twitter.com
 preprod-business.twitter.com
@@ -3247,29 +2751,19 @@ preprod-horizon.twitter.com
 preprod-jobs.twitter.com
 presidentielle.twitter.com
 prideinlondon.twitter.com
-privacy.twitter.com
 privacy-dev.twitter.com
 privacy-staging.twitter.com
-publish.twitter.com
-publisher.twitter.com
 radiodisney.twitter.com
 rainbow6.twitter.com
-rally.twitter.com
 rdma.twitter.com
-records.twitter.com
 redbull.twitter.com
 redcarpet.twitter.com
 redzone.twitter.com
-research.twitter.com
 reverb.twitter.com
 rockinrio.twitter.com
 rogueone.twitter.com
 rollandgarros.twitter.com
-rule.twitter.com
-rules.twitter.com
 s-41-9-0.twitter.com
-sa.twitter.com
-safety.twitter.com
 sagawardsredcarpet.twitter.com
 sao-api.twitter.com
 sin-api.twitter.com
@@ -3396,7 +2890,6 @@ spruce-goose-cb.twitter.com
 spruce-goose-cc.twitter.com
 spruce-goose-cd.twitter.com
 spruce-goose-ce.twitter.com
-ss.twitter.com
 staging1-atla-partnerstream1.twitter.com
 staging1-atla-stream-data-api.twitter.com
 staging1-smf1-partnerstream1.twitter.com
@@ -3470,7 +2963,6 @@ abs-o-ec.twimg.com
 abs-o-ft.twimg.com
 abs-zero.twimg.com
 admedia.twimg.com
-amp.twimg.com
 amp-0.twimg.com
 amp-eb.twimg.com
 amp-o.twimg.com
@@ -3501,36 +2993,27 @@ ma-o.twimg.com
 ma-o-ak.twimg.com
 ma-o-ec.twimg.com
 ma-zero.twimg.com
-ma1.twimg.com
 ma3.twimg.com
 mobile-staging1.twimg.com
 mobile-staging3.twimg.com
 mobile-staging4.twimg.com
-mobile1.twimg.com
-mobile2.twimg.com
 mobile3.twimg.com
 o-ak.twimg.com
 o-ec.twimg.com
 o-ft.twimg.com
 o-zero.twimg.com
-oem.twimg.com
 oem-o.twimg.com
 pbs-eb.twimg.com
 pbs-ft.twimg.com
 pbs-o-ak.twimg.com
 pbs-v6.twimg.com
 pbs-zero.twimg.com
-pr.twimg.com
 pr-ft.twimg.com
-s.twimg.com
 sa-bs-o.twimg.com
-star.twimg.com
-test.twimg.com
 ton-0.twimg.com
 ton-o.twimg.com
 ton-o-ak.twimg.com
 ton-zero.twimg.com
-ttc.twimg.com
 tweet.twimg.com
 video-0.twimg.com
 video-eb.twimg.com
@@ -3543,8 +3026,6 @@ video-o-ft.twimg.com
 video-staging.twimg.com
 video-zero.twimg.com
 wildcard.twimg.com
-zero.twimg.com
-_dmarc.t.co
 albtls.t.co
 albtls-dc.t.co
 albtls-na.t.co
@@ -3564,79 +3045,57 @@ na.fsttls.t.co
 na.glbtls.t.co
 upload-dc.albtls.t.co
 upload-dc.glbtls.t.co
-assets.tweetdeck.com
-blog.tweetdeck.com
-downloads.tweetdeck.com
-support.tweetdeck.com
-tracking.tweetdeck.com
-web.tweetdeck.com
-www.tweetdeck.com
 a.u09.twtrdns.net
 b.u09.twtrdns.net
 c.u09.twtrdns.net
 d.u09.twtrdns.net
 d01-01.ns.twtrdns.net
 d01-02.ns.twtrdns.net
-_dmarctwttr.com
-adspy-lab.vpntwttr.com
-adspy.vpntwttr.com
-arbortwttr.com
-art-lab.vpntwttr.com
-art.vpntwttr.com
-atlc-lab.vpntwttr.com
-awproxy01.svctwttr.com
-awproxydev.svctwttr.com
-birdseye-lab.vpntwttr.com
-birdseye.vpntwttr.com
-brandsafety-lab.vpntwttr.com
-brandsafety.vpntwttr.com
-corpmailtwttr.com
-gsptwttr.com
-idm-lab.vpntwttr.com
-idm.vpntwttr.com
-jiratwttr.com
-jss-dp.svctwttr.com
-jss.svctwttr.com
-maventwttr.com
-mdm-dev.svctwttr.com
-mdm.svctwttr.com
-munki-atlc.svctwttr.com
-munki-smfc.svctwttr.com
-munki.svctwttr.com
-obv-atla.vpntwttr.com
-obv-smf1.vpntwttr.com
-opscimtwttr.com
-opscim-devtwttr.com
-pipelinedash.vpntwttr.com
-planner-lab.vpntwttr.com
-planner.vpntwttr.com
-portfolio-lab.vpntwttr.com
-portfolio.vpntwttr.com
-publisherstwttr.com
-remotesupporttwttr.com
-roster-lab.vpntwttr.com
-roster.vpntwttr.com
-semantic-lab.vpntwttr.com
-semantic.vpntwttr.com
-smfc-lab.vpntwttr.com
-staging-vpn.atlctwttr.com
-staging-vpn.smfctwttr.com
-staging.vpntwttr.com
-successtwttr.com
-tableau-lab.vpntwttr.com
-tableau.vpntwttr.com
-tecsadmintwttr.com
-tecsadmin-uattwttr.com
-translatetwttr.com
-urltool.ts.svctwttr.com
-vpntwttr.com
-vpn.atlctwttr.com
-vpn.smfctwttr.com
-vpn1.atlctwttr.com
-vpn1.smfctwttr.com
-vpn2twttr.com
-vpn2.atlctwttr.com
-vpn2.smfctwttr.com
+adspy-lab.vpn.twttr.com
+adspy.vpn.twttr.com
+arbor.twttr.com
+art-lab.vpn.twttr.com
+art.vpn.twttr.com
+atlc-lab.vpn.twttr.com
+awproxy01.svc.twttr.com
+awproxydev.svc.twttr.com
+birdseye-lab.vpn.twttr.com
+birdseye.vpn.twttr.com
+brandsafety-lab.vpn.twttr.com
+brandsafety.vpn.twttr.com
+gsp.twttr.com
+idm-lab.vpn.twttr.com
+idm.vpn.twttr.com
+mdm-dev.svc.twttr.com
+mdm.svc.twttr.com
+obv-atla.vpn.twttr.com
+obv-smf1.vpn.twttr.com
+pipelinedash.vpn.twttr.com
+planner-lab.vpn.twttr.com
+planner.vpn.twttr.com
+portfolio-lab.vpn.twttr.com
+portfolio.vpn.twttr.com
+publishers.twttr.com
+roster-lab.vpn.twttr.com
+roster.vpn.twttr.com
+semantic-lab.vpn.twttr.com
+semantic.vpn.twttr.com
+smfc-lab.vpn.twttr.com
+staging-vpn.atlc.twttr.com
+staging-vpn.smfc.twttr.com
+staging.vpn.twttr.com
+success.twttr.com
+tableau-lab.vpn.twttr.com
+tableau.vpn.twttr.com
+translate.twttr.com
+vpn.twttr.com
+vpn.atlc.twttr.com
+vpn.smfc.twttr.com
+vpn1.atlc.twttr.com
+vpn1.smfc.twttr.com
+vpn2.twttr.com
+vpn2.atlc.twttr.com
+vpn2.smfc.twttr.com
 portal.x.com
 integrationwizard.x.com
 gitlab.x.com
@@ -3699,17 +3158,12 @@ mta72.e.twitter.com
 mta15.e.twitter.com
 yearinreview.twitter.com
 mta69.e.twitter.com
-soccer.twitter.com
 tv-api.twitter.com
 wwdc.twitter.com
-train.twitter.com
 mta24.e.twitter.com
-translate.twitter.com
 mta68.e.twitter.com
 sms-be.twitter.com
-zero.twitter.com
 mta25.e.twitter.com
-showtime.twitter.com
 streetgigs.twitter.com
 showtimeboxing.twitter.com
 stanford.twitter.com
@@ -3730,15 +3184,12 @@ mta26.e.twitter.com
 vine.twitter.com
 mta.e.twitter.com
 tinteractive.twitter.com
-studio.twitter.com
 uclfinal.twitter.com
 sffilm.twitter.com
 zedd.twitter.com
-tales.twitter.com
 mta73.e.twitter.com
 zacbrownband.twitter.com
 mta27.e.twitter.com
-xbox.twitter.com
 upload-0-0-0-0.twitter.com
 samanthabee.twitter.com
 mta20.e.twitter.com
@@ -3751,31 +3202,23 @@ mta22.e.twitter.com
 vice.twitter.com
 vivelatino.twitter.com
 mta6.e.twitter.com
-transparency.twitter.com
 transparency-staging.twitter.com
 mta13.e.twitter.com
 scotus.twitter.com
-start.twitter.com
 watchstadium.twitter.com
 skynews.twitter.com
 zbb.twitter.com
-wwe.twitter.com
 zacbrown.twitter.com
 sxsw.twitter.com
-stories.twitter.com
 skyboxing.twitter.com
 twemoji.twitter.com
-tnt.twitter.com
 theemawards.twitter.com
 mta21.e.twitter.com
 tommynow.twitter.com
 tinteractive-staging.twitter.com
-stadium.twitter.com
 mta3.e.twitter.com
-university.twitter.com
 ufes.twitter.com
 takeflight-staging.twitter.com
-verification.twitter.com
 wimbledon.twitter.com
 sambee.twitter.com
 ton-o-ec.twimg.com
@@ -3789,7 +3232,6 @@ periscope-test.twimg.com
 ma2.twimg.com
 pbs-o-ft.twimg.com
 ton-ec.twimg.com
-l.twimg.com
 pbs-o-ec.twimg.com
 ma-o-ft.twimg.com
 mobile4.twimg.com
@@ -3799,14 +3241,11 @@ d01-04.ns.twtrdns.net
 r01-03.ns.twtrdns.net
 d01-03.ns.twtrdns.net
 r01-02.ns.twtrdns.net
-gsp.twttr.com
 xe-1-0-0.lax1-cr1.twttr.com
-awproxy01.svc.twttr.com
 lo0.par1-cr2.twttr.com
 as1.lon1.twttr.com
 atlcout1.twttr.com
 ap.vpn.twttr.com
-art-lab.vpn.twttr.com
 ge-2-0-2.pao1-cr2.twttr.com
 atlcout5.twttr.com
 cr1.dfw1.twttr.com
@@ -3814,7 +3253,6 @@ sp2.sjc2.twttr.com
 xe-0-3-0.par1-cr1.twttr.com
 ae62.ams1-cr2.twttr.com
 xe-0-0-0.nyc1-cr1.twttr.com
-obv-atla.vpn.twttr.com
 lo0.hkg1-cr1.twttr.com
 xe-2-0-2.dfw1-cr1.twttr.com
 lo0.chi1-cr1.twttr.com
@@ -3822,7 +3260,6 @@ ae62.chi1-cr2.twttr.com
 ae61.dfw1-cr2.twttr.com
 iad1-cr2.twttr.com
 cr1.tyo1.twttr.com
-vpn.smfc.twttr.com
 et-7-1-0.smf1-er1.twttr.com
 r-199-59-150-189.twttr.com
 xe-2-0-2.mad2-cr1.twttr.com
@@ -3831,7 +3268,6 @@ r-199-59-150-183.twttr.com
 r-199-16-157-181.twttr.com
 ae65.iad1-cr1.twttr.com
 as1.tyo1.twttr.com
-staging.vpn.twttr.com
 oag-stage.svc.twttr.com
 xe-0-2-0.iad1-cr2.twttr.com
 cr2.lax1.twttr.com
@@ -3839,16 +3275,13 @@ oag-dev.svc.twttr.com
 xe-0-1-1.chi1-cr1.twttr.com
 gi-1-0-3.sjc4-er2.corp.twttr.com
 ae63.cr1.lon2.twttr.com
-mdm-dev.svc.twttr.com
 logagg.twttr.com
 cr1.mia1.twttr.com
 confluence-dev.svc.twttr.com
-smfc-lab.vpn.twttr.com
 ae60.iad1-cr2.twttr.com
 lo0.par1-cr1.twttr.com
 3pmr1.twttr.com
 smfcout5.twttr.com
-vpn.twttr.com
 cr1.hkg1.twttr.com
 r-192-133-77-16.twttr.com
 xe-0-1-1.dfw1-cr2.twttr.com
@@ -3856,15 +3289,11 @@ xe-1-0-0.hkg1-cr1.twttr.com
 cr2.chi1.twttr.com
 xe-0-1-1.iad1-cr2.twttr.com
 atlcout2.twttr.com
-birdseye-lab.vpn.twttr.com
-mdm.svc.twttr.com
 cr2.nyc1.twttr.com
 sp1.lon1.twttr.com
-idm-lab.vpn.twttr.com
 cr1.sjc2.twttr.com
 ae60.sjc2-cr2.twttr.com
 gi-1-0-3.sjc4-er1.corp.twttr.com
-roster-lab.vpn.twttr.com
 sp2.lon1.twttr.com
 cr2.sjc2.twttr.com
 r-199-16-157-180.twttr.com
@@ -3873,10 +3302,7 @@ lo0.nyc1-cr2.twttr.com
 cr2.fra1.twttr.com
 cr2.syd1.twttr.com
 ae66.ams1-cr2.twttr.com
-tableau-lab.vpn.twttr.com
-birdseye.vpn.twttr.com
 ae60.chi1-cr2.twttr.com
-vpn1.smfc.twttr.com
 cr1.ams1.twttr.com
 xe-0-1-0.iad1-cr2.twttr.com
 xe-1-3-0.pao1-cr2.twttr.com
@@ -3893,19 +3319,14 @@ cr1.mad2.twttr.com
 smf1nc2lb12.twttr.com
 cr1.atl2.twttr.com
 ae65.nyc1-cr2.twttr.com
-awproxydev.svc.twttr.com
-staging-vpn.smfc.twttr.com
 xe-1-2-1.mia1-cr2.twttr.com
 r-192-133-77-17.twttr.com
 xe-0-0-0.sjc2-cr1.twttr.com
-semantic.vpn.twttr.com
 dev-publishers.twttr.com
 xe-1-1-0.fra1-cr1.twttr.com
 cr1.syd1.twttr.com
-staging-vpn.atlc.twttr.com
 ae60.iad1-cr1.twttr.com
 xe-2-1-1.dfw1-cr2.twttr.com
-vpn.atlc.twttr.com
 smf1nc2lb10.twttr.com
 ae65.par1-cr1.twttr.com
 cr1.fra1.twttr.com
@@ -3914,7 +3335,6 @@ r-199-59-150-188.twttr.com
 r-199-59-150-180.twttr.com
 iad1-cr1.twttr.com
 et-1-1-0.sjc2-cr1.twttr.com
-obv-smf1.vpn.twttr.com
 sp2.iad1.twttr.com
 ae63.par1-cr1.twttr.com
 r-199-59-150-181.twttr.com
@@ -3924,7 +3344,6 @@ xe-0-1-1.fra1-cr1.twttr.com
 ae60.pao1-cr2.twttr.com
 ae65.ams1-cr1.twttr.com
 sp1.iad1.twttr.com
-vpn2.atlc.twttr.com
 cr2.mia1.twttr.com
 lo0.sea2-cr2.twttr.com
 cr1.pao1.twttr.com
@@ -3937,7 +3356,6 @@ ae62.er1.atl1.twttr.com
 lo0.sto1-cr1.twttr.com
 xe-1-0-0.iad1-cr2.twttr.com
 ge-2-0-1.pao1-cr2.twttr.com
-vpn.twttr.com
 xe-0-0-0.dfw1-cr1.twttr.com
 sp1.tyo1.twttr.com
 xe-1-0-2.mad2-cr1.twttr.com
@@ -3946,43 +3364,31 @@ et-0-1-0.sjc2-cr2.twttr.com
 cr1.nyc1.twttr.com
 xe-1-1-1.fra1-cr1.twttr.com
 et-7-1-0.smf1-er2.twttr.com
-pipelinedash.vpn.twttr.com
-adspy.vpn.twttr.com
-portfolio-lab.vpn.twttr.com
-staging.vpn.twttr.com
 escalate-lab.vpn.twttr.com
 ae60.sjc2-cr1.twttr.com
 ae65.sto1-cr1.twttr.com
 cr1.sto1.twttr.com
-vpn2.smfc.twttr.com
 lo0.fra1-cr1.twttr.com
 cr1.lon2.twttr.com
 flightplan.vpn.twttr.com
 ha1.vlan900.sjc4-er1.corp.twttr.com
-publishers.twttr.com
 xe-0-0-0.sao1-cr1.twttr.com
 lo0.fra1-cr2.twttr.com
-adspy-lab.vpn.twttr.com
 cr2.sea2.twttr.com
 cr2.sin1.twttr.com
-brandsafety.vpn.twttr.com
 ae62.iad1-cr1.twttr.com
 r-192-133-77-18.twttr.com
 cr1.par1.twttr.com
-semantic-lab.vpn.twttr.com
 access-dev.svc.twttr.com
 smfcout1.twttr.com
 cr2.tyo1.twttr.com
 lo0.tyo2-fw1.corp.twttr.com
 cr2.ams1.twttr.com
-planner.vpn.twttr.com
 xe-0-0-3.par1-cr2.twttr.com
 lo0.dfw1-cr2.twttr.com
 lo0.nyc1-cr1.twttr.com
 cr2.par1.twttr.com
 ae63.par1-cr2.twttr.com
-idm.vpn.twttr.com
-roster.vpn.twttr.com
 xe-0-0-0.hkg1-cr1.twttr.com
 xe-0-2-1.iad1-cr2.twttr.com
 r-192-133-77-15.twttr.com
@@ -3991,21 +3397,17 @@ ap-lab.vpn.twttr.com
 mx1.twttr.com
 vlan900.sjc4-er1.corp.twttr.com
 vlan900.sjc4-er2.corp.twttr.com
-tableau.vpn.twttr.com
 xe-0-1-1.iad1-cr1.twttr.com
 ae63.chi1-cr1.twttr.com
 er1.atl1.twttr.com
 3pmr2.twttr.com
-vpn1.atlc.twttr.com
 xe-2-1-1.dfw1-cr1.twttr.com
 lo0.mad2-cr1.twttr.com
 xe-1-0-0.sao1-cr1.twttr.com
 cr1.sao1.twttr.com
 lo0.lax1-cr1.twttr.com
-brandsafety-lab.vpn.twttr.com
 xe-1-0-0.nyc1-cr1.twttr.com
 ae63.cr2.lon2.twttr.com
-art.vpn.twttr.com
 lo0.dfw1-cr1.twttr.com
 smfcout3.twttr.com
 xe-1-1-1.sjc2-cr2.twttr.com
@@ -4016,7 +3418,6 @@ xe-1-0-0.chi1-cr1.twttr.com
 uae-ix.dxb1-cr1.twttr.com
 ae62.par1-cr2.twttr.com
 xe-1-0-0.ams1-cr1.twttr.com
-atlc-lab.vpn.twttr.com
 flightplan-lab.vpn.twttr.com
 lo0.sea2-cr1.twttr.com
 sp3.iad1.twttr.com
@@ -4025,13 +3426,10 @@ cr2.atl2.twttr.com
 smfcout4.twttr.com
 cr1.sin1.twttr.com
 r-199-16-157-183.twttr.com
-portfolio.vpn.twttr.com
 xe-0-0-0.chi1-cr1.twttr.com
 ae66.ams1-cr1.twttr.com
-vpn2.twttr.com
 r-199-16-157-182.twttr.com
 smfcout2.twttr.com
-planner-lab.vpn.twttr.com
 logagg-atla.twttr.com
 cr1.chi1.twttr.com
 prod-video-eu-central-1.pscp.tv
@@ -4431,3 +3829,187 @@ prod-transcode-eu-central-1.periscope.tv
 replay.periscope.tv
 prod-ec-eu-central-1.video.periscope.tv
 prod-public-api-assets.periscope.tv
+envoy.payments-dev.x.com
+audubon.atlv.vault.x.com
+audubon.atls.vault.x.com
+amazonmarketplace.cloud.x.com
+api.cloud.x.com
+authorizenet.cloud.x.com
+catalog.cloud.x.com
+cloud.x.com
+demo.cloud.x.com
+ebaymarketplace.cloud.x.com
+paypalpayments.cloud.x.com
+paywall.cloud.x.com
+xfabric.cloud.x.com
+xmanager.cloud.x.com
+pro.twittter.com
+gitaprimary-basic.twitter.biz
+gitaprimary.twitter.biz
+git-basic.twitter.biz
+gitbprimary-basic.twitter.biz
+gitbprimary.twitter.biz
+gitcprimary-basic.twitter.biz
+gitcprimary.twitter.biz
+gitlfs-atla.twitter.biz
+gitlfs-basic.twitter.biz
+gitlfs-smf1.twitter.biz
+gitlfs.twitter.biz
+gitsprimary-basic.twitter.biz
+gitsprimary.twitter.biz
+git-staging1.twitter.biz
+git-staging2.twitter.biz
+git-staging3.twitter.biz
+git-staging4.twitter.biz
+git-staging5.twitter.biz
+git-staging6.twitter.biz
+git-staging7.twitter.biz
+git-staging8.twitter.biz
+git-staging9.twitter.biz
+git-staging.twitter.biz
+kgit.twitter.biz
+rogit-atla.twitter.biz
+rogit-pdxa.twitter.biz
+rogit-smf1.twitter.biz
+rogit-staging.atla.twitter.biz
+rogit-staging-pdxa.twitter.biz
+rogit-staging-smf1.twitter.biz
+rogit-staging.twitter.biz
+rogit.twitter.biz
+hadoop-mltst.qus1.twttr.net
+mltst-knox-knox-0001.qus1.twttr.net
+hbase-pcadmintst.qus1.twttr.net
+pcadmintst-knox-knox-0001.qus1.twttr.net
+sms-ops.twitter.biz
+mule-1-dev.itvm.smfc.twttr.net
+mule-1-prod.itvm.smfc.twttr.net
+mule-1-staging.itvm.smfc.twttr.net
+mule-2-dev.itvm.smfc.twttr.net
+mule-2-prod.itvm.smfc.twttr.net
+mule-2-staging.itvm.smfc.twttr.net
+mule-3-dev.itvm.smfc.twttr.net
+mule-3-prod.itvm.smfc.twttr.net
+mule-3-staging.itvm.smfc.twttr.net
+mule-4-dev.itvm.smfc.twttr.net
+mule-4-prod.itvm.smfc.twttr.net
+mule4-sandbox-1.itvm.smfc.twttr.net
+mule4-sandbox-2.itvm.smfc.twttr.net
+mule-4-staging.itvm.smfc.twttr.net
+mule-5-prod.itvm.smfc.twttr.net
+mule-5-staging.itvm.smfc.twttr.net
+mule-6-prod.itvm.smfc.twttr.net
+mule-6-staging.itvm.smfc.twttr.net
+mule-dev.twitter.biz
+mule-esb-1.itvm.smfc.twttr.net
+mule-esb-2.itvm.smfc.twttr.net
+mule-esb-3.itvm.smfc.twttr.net
+mulesoft-esb.itvm.smfc.twttr.net
+mule-staging-1.itvm.smfc.twttr.net
+mule-staging-2.itvm.smfc.twttr.net
+mule-staging-3.itvm.smfc.twttr.net
+mule-staging.twitter.biz
+mule.twitter.biz
+nbproxy.atla.twitter.biz
+nbproxy.smf1.twitter.biz
+activemq-prod.smfc-it.twitter.biz
+activemq-staging.smfc-it.twitter.biz
+mule4-1.itvm.smfc.twttr.net
+mule4-1.smfc-it.twitter.biz
+mule4-2.itvm.smfc.twttr.net
+mule4-2.smfc-it.twitter.biz
+mule4-sandbox-1.smfc-it.twitter.biz
+mule4-sandbox-2.smfc-it.twitter.biz
+mule4-staging.twitter.biz
+mule4.twitter.biz
+mulesoft-esb.smfc-it.twitter.biz
+mule-staging-1.smfc-it.twitter.biz
+mule-staging-2.smfc-it.twitter.biz
+mule-staging-3.smfc-it.twitter.biz
+profile-viewer.twitter.biz
+sni.cloudflaressl.com
+sierraa-test.twitter.biz
+tools.twitter.biz
+nbproxy-staging.atla.twitter.biz
+nbproxy-staging.smf1.twitter.biz
+wilyns-pdxa.twitter.biz
+wilyns.twitter.biz
+wilyns-atla.twitter.biz
+smyte.twitter.biz
+docker-registry01.smfc-it.twitter.biz
+docker-registry02.atlc-it.twitter.biz
+docker-registry.atlc-it.twitter.biz
+docker-registry.smfc-it.twitter.biz
+artifactory-staging.twitter.biz
+docker-local.artifactory-staging.twitter.biz
+docker-public.artifactory-staging.twitter.biz
+docker-releases-local.artifactory-staging.twitter.biz
+docker-virtual.artifactory-staging.twitter.biz
+xdotcom1.twitter.biz
+xdotcom.twitter.biz
+digicert-test-03.twitter.biz
+digicert-test-cert-02.twitter.biz
+revsci-kubeflow.twitter.biz
+paste-dev.atlc-it.twitter.biz
+paste-dev.smfc-it.twitter.biz
+paste-dev.twitter.biz
+webhook.twitter.biz
+compute-gcr-test.twitter.biz
+compute-gcr.twitter.biz
+compute-qus1-c2.twitter.biz
+compute-qus1.twitter.biz
+cgitpuppet.twitter.biz
+gitpuppet-atla.twitter.biz
+gitpuppet-atlc.twitter.biz
+gitpuppet-pdxa.twitter.biz
+gitpuppet-pdxc.twitter.biz
+gitpuppet.twitter.biz
+ldapmaster.twitter.biz
+ldapprimary.twitter.biz
+testrail.atlc-it.twitter.biz
+testrail-dev.atlc-it.twitter.biz
+testrail-dev.smfc-it.twitter.biz
+testrail-mgmt.atlc-it.twitter.biz
+testrail-mgmt.smfc-it.twitter.biz
+testrail.smfc-it.twitter.biz
+testrail.twitter.biz
+service-test.smf1.twitter.biz
+service-test.qus1.twitter.biz
+nlyte-nao-dev.twitter.biz
+nlyte-nao.twitter.biz
+nlyte-neo-dev.twitter.biz
+nlyte-neo.twitter.biz
+outcomes--prod--marketing-science.service.atla.twitter.biz
+pages.twitter.biz
+isi-misp.qus1.twttr.net
+misp.twitter.biz
+ads-prediction-par-kf-prod.twitter.biz
+ldapmaster-test.twitter.biz
+ldapprimary-test.twitter.biz
+ads-prediction-kubeflow-dev.twitter.biz
+dna.twitter.biz
+zipkin.twitter.biz
+topline.twitter.biz
+withholding.twitter.biz
+att-agent-tools.twitter.biz
+mtt.twitter.biz
+view.twitter.biz
+hello.twitter.biz
+koji.twitter.biz
+twiapp13-4444-zt.twitter.biz
+twiapp13-8888-zt.twitter.biz
+munki02.atlc-it.twitter.biz
+munki02.smfc-it.twitter.biz
+munki03.atlc-it.twitter.biz
+munki03.smfc-it.twitter.biz
+jira-dmz.twitter.biz
+1password-scim.atlc-it.twitter.biz
+letssvc.twttr.com
+chef-ext-standby.atlc-it.twitter.biz
+chef.smfc-it.twitter.biz
+1password-scim.pdxc-it.twitter.biz
+1password-scim.smfc-it.twitter.biz
+1password-scim.itvm.atlc.twttr.net
+1password-scim.itvm.pdxc.twttr.net
+1password-scim.itvm.smfc.twttr.net
+mtc.cdn.vine.co
+v.cdn.vine.co

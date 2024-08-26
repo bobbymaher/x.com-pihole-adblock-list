@@ -1,3 +1,4 @@
+0.0.0.0 sni.cloudflaressl.com
 0.0.0.0 cdn.cms-twdigitalassets.com
 0.0.0.0 admin.periscope.tv
 0.0.0.0 api.periscope.tv
@@ -575,8 +576,24 @@
 0.0.0.0 twitter.bg
 0.0.0.0 twitter.bh
 0.0.0.0 artifactory.twitter.biz
+0.0.0.0 att-agent-tools.twitter.biz
 0.0.0.0 cgit.twitter.biz
+0.0.0.0 cgitpuppet.twitter.biz
+0.0.0.0 dna.twitter.biz
+0.0.0.0 hello.twitter.biz
+0.0.0.0 mtt.twitter.biz
+0.0.0.0 mule.twitter.biz
+0.0.0.0 outcomes--prod--marketing-science.service.atla.twitter.biz
+0.0.0.0 profile-viewer.twitter.biz
 0.0.0.0 puppetserver.smfc-it.twitter.biz
+0.0.0.0 tools.twitter.biz
+0.0.0.0 topline.twitter.biz
+0.0.0.0 twiapp13-4444-zt.twitter.biz
+0.0.0.0 twiapp13-8888-zt.twitter.biz
+0.0.0.0 view.twitter.biz
+0.0.0.0 webhook.twitter.biz
+0.0.0.0 withholding.twitter.biz
+0.0.0.0 zipkin.twitter.biz
 0.0.0.0 twitter.bot
 0.0.0.0 twitter.build
 0.0.0.0 twitter.by
@@ -1621,6 +1638,7 @@
 0.0.0.0 twitter.sx
 0.0.0.0 twitter.tj
 0.0.0.0 twitter.tk
+0.0.0.0 twitter.tn
 0.0.0.0 twitter.today
 0.0.0.0 twitter.tokyo
 0.0.0.0 twitter.tw
@@ -1643,6 +1661,7 @@
 0.0.0.0 twitter.xn--mxtq1m
 0.0.0.0 twitter.xn--ngbrx
 0.0.0.0 twitter.xn--node
+0.0.0.0 twitter.zone
 0.0.0.0 twitterinc.com
 0.0.0.0 a.r06.twtrdns.net
 0.0.0.0 a.r07.twtrdns.net
@@ -1887,7 +1906,7 @@
 0.0.0.0 tableau.vpn.twttr.com
 0.0.0.0 tecsadmin-uat.twttr.com
 0.0.0.0 tecsadmin.twttr.com
-0.0.0.0 twttr.com
+0.0.0.0 translate.twttr.com
 0.0.0.0 uae-ix.dxb1-cr1.twttr.com
 0.0.0.0 uae-ix.dxb1-cr2.twttr.com
 0.0.0.0 urltool.ts.svc.twttr.com
@@ -1935,6 +1954,8 @@
 0.0.0.0 xe-2-0-2.mad2-cr1.twttr.com
 0.0.0.0 xe-2-1-1.dfw1-cr1.twttr.com
 0.0.0.0 xe-2-1-1.dfw1-cr2.twttr.com
+0.0.0.0 mtc.cdn.vine.co
+0.0.0.0 v.cdn.vine.co
 0.0.0.0 blog.x.co
 0.0.0.0 mobile.x.co
 0.0.0.0 www.x.co

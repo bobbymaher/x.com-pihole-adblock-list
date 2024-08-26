@@ -5,6 +5,7 @@ t.co
 tweetdeck.com
 twtrdns.net
 twttr.com
+twitter.biz
 
 periscope - could be used by twitter for streaming
 .pscp.tv

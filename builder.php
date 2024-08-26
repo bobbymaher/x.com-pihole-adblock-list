@@ -3,7 +3,7 @@
 
 
 $adblockIP = '0.0.0.0';
-$rawData = file_get_contents('raw-data.txt');
+$rawData = file_get_contents('all-domains.txt');
 
 function getDomain($url) {
     $parts = explode('.', $url);
@@ -58,11 +58,6 @@ foreach($rawLines as $rawLine){
         continue;
     }
 
-    //some lines can be IP - hostname
-    if(str_contains($rawLine, ' - ')){
-        $parts = explode(' - ', $rawLine);
-        $rawLine = $parts[1];
-    }
     if(!in_array($rawLine, $domains)){
         $domains[] = $rawLine;
     }
@@ -75,12 +70,14 @@ $sortedDomains = array_unique($sortedDomains);
 $writeFileContent = '';
 foreach($sortedDomains as $domain){
 
+    echo 'checking ' . $domain . ' .. ';
+
     //ignore domains with no records, they are likely abandoned
     if(dns_exists($domain)){
-        echo 'writing ' . $domain . PHP_EOL;
+        echo 'writing '  . PHP_EOL;
         $writeFileContent.= $adblockIP . ' ' . $domain . PHP_EOL;
     }else{
-        echo 'no dns, skipping ' . $domain . PHP_EOL;
+        echo 'no dns, skipping ' . PHP_EOL;
     }
 }
 echo count($sortedDomains) . ' domains added to list' . PHP_EOL;
