@@ -42,6 +42,10 @@ function sortDomains($domains) {
     return $sorted;
 }
 
+function dns_exists($domain) {
+    $result = dns_get_record($domain, DNS_A);
+    return !empty($result);
+}
 
 $rawLines = explode("\n", $rawData);
 
@@ -70,7 +74,14 @@ $sortedDomains = array_unique($sortedDomains);
 
 $writeFileContent = '';
 foreach($sortedDomains as $domain){
-    $writeFileContent.= $adblockIP . ' ' . $domain . PHP_EOL;
+
+    //ignore domains with no records, they are likely abandoned
+    if(dns_exists($domain)){
+        echo 'writing ' . $domain . PHP_EOL;
+        $writeFileContent.= $adblockIP . ' ' . $domain . PHP_EOL;
+    }else{
+        echo 'no dns, skipping ' . $domain . PHP_EOL;
+    }
 }
 echo count($sortedDomains) . ' domains added to list' . PHP_EOL;
 file_put_contents('list.txt', $writeFileContent);
