@@ -432,8 +432,6 @@
 0.0.0.0 urltool.ts.svc.twttr.com
 0.0.0.0 chef.svc.twttr.com
 0.0.0.0 corpmail.twttr.com
-0.0.0.0 Common
-0.0.0.0 Name
 0.0.0.0 api.tweetdeck.com
 0.0.0.0 service.qua2.twitter.biz
 0.0.0.0 git.twitter.biz
@@ -2281,3 +2279,8 @@
 0.0.0.0 chirp.twitter.com
 0.0.0.0 amplify.x.com
 0.0.0.0 verified.x.com
+0.0.0.0 Platform.twitter.com
+0.0.0.0 betastream.twitter.com
+0.0.0.0 sms-be-vip.twitter.com
+0.0.0.0 urls-real.api.twitter.com
+0.0.0.0 xstream.twitter.com

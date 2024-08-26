@@ -432,8 +432,6 @@ opscim.twttr.com
 urltool.ts.svc.twttr.com
 chef.svc.twttr.com
 corpmail.twttr.com
-Common
-Name
 api.tweetdeck.com
 service.qua2.twitter.biz
 git.twitter.biz
