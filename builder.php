@@ -59,14 +59,14 @@ foreach($rawLines as $rawLine){
         $parts = explode(' - ', $rawLine);
         $rawLine = $parts[1];
     }
-
-    $domains[] = $rawLine;
+    if(!in_array($rawLine, $domains)){
+        $domains[] = $rawLine;
+    }
 }
 
-$domains = array_unique($domains);
-
 $sortedDomains = sortDomains($domains);
-
+//sortDomains creates duplicates, as it reduces sub sub domains
+$sortedDomains = array_unique($sortedDomains);
 
 $writeFileContent = '';
 foreach($sortedDomains as $domain){
