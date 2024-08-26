@@ -3926,7 +3926,6 @@ mule-staging-1.smfc-it.twitter.biz
 mule-staging-2.smfc-it.twitter.biz
 mule-staging-3.smfc-it.twitter.biz
 profile-viewer.twitter.biz
-sni.cloudflaressl.com
 sierraa-test.twitter.biz
 tools.twitter.biz
 nbproxy-staging.atla.twitter.biz

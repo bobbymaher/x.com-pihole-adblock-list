@@ -1,4 +1,3 @@
-0.0.0.0 sni.cloudflaressl.com
 0.0.0.0 cdn.cms-twdigitalassets.com
 0.0.0.0 admin.periscope.tv
 0.0.0.0 api.periscope.tv
